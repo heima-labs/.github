@@ -16,7 +16,7 @@ We're working on something different: a home that observes what happens, learns 
 
 ## Projects
 
-### [ha-heima-component](https://github.com/heima-labs/ha-heima-component)
+### [ha-heima-core](https://github.com/heima-labs/ha-heima-core)
 The core project. An intent-driven home intelligence engine for Home Assistant.
 
 - Deterministic domain pipeline (presence, occupancy, house state, lighting, heating, security)
